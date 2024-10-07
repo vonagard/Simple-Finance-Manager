@@ -1,0 +1,15 @@
+pandas            # For data analysis and handling
+matplotlib        # For creating visual reports (graphs)
+seaborn           # Optional: For advanced and aesthetic visualizations
+plotly            # Optional: For interactive graphs
+
+Flask             # Optional: For building a web interface
+bcrypt            # Optional: For password encryption (hashing for user login)
+pytest            # For testing purposes (if you use pytest)
+
+# GUI Libraries (Optional)
+PyQt5             # Optional: For building desktop GUI (if not using Tkinter)
+#tkinter           # Built-in with Python, no need to include
+
+# SQLite (No need to include in requirements.txt, part of Python standard library)
+#sqlite3           # Built-in, no need to install separately
